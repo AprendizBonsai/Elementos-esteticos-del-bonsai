@@ -5,6 +5,6 @@ Al crear un bonsái, este debe ser una evocación a través de la cual expresemo
 La tabla [Elementos estéticos del bonsái](https://github.com/AprendizBonsai/Elementos-esteticos-del-bonsai/blob/main/Elementos%20esteticos%20del%20bonsai.jpg) de este repositorio es una versión de alta resolución que se utiliza en el segundo artículo.
 
 ## Referencias al contenido de este repositorio
-Jeker, F. (2006). _Estética y bonsái: Guía práctica. Tomo 1_. Jeker Communication.
-Jeker, F. (autor) y Notter, P. (prologuista) (2003). _Esthétique et bonsaï: Guide pratique. Tome 2_. Jeker Communication.
-Naka, J. Y. (autor), Bataller Piera, G. (traductor del alemán), Villanueva Hernández, J. L. (revisión). (2006). _Técnicas del bonsái_. Editorial Omega. (Trabajo original publicado en 1973 en inglés).
+* Jeker, F. (2006). _Estética y bonsái: Guía práctica. Tomo 1_. Jeker Communication.
+* Jeker, F. (autor) y Notter, P. (prologuista) (2003). _Esthétique et bonsaï: Guide pratique. Tome 2_. Jeker Communication.
+* Naka, J. Y. (autor), Bataller Piera, G. (traductor del alemán), Villanueva Hernández, J. L. (revisión). (2006). _Técnicas del bonsái_. Editorial Omega. (Trabajo original publicado en 1973 en inglés).
